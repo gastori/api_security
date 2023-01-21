@@ -95,3 +95,7 @@ To sum up, web applications rely on several technologies to function, including 
 
 
 [PowerPoint Deck](pptx/web_app_101.pptx)
+
+[Deck Here](https://github.com/gastori/api_security/raw/main/web_app_101/pptx/web_app_101.pptx)
+
+<a href="https://github.com/gastori/api_security/raw/main/web_app_101/pptx/web_app_101.pptx">links text</a>
