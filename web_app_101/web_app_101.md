@@ -1,14 +1,18 @@
 Web Applications 101
 
 Web applications are designed to allow end-user interactivity and are built on the client/server model. The client, typically a web browser, generates requests for resources and sends them to web servers. These servers then send resources back to the client over a network. Examples of web applications include LinkedIn, Facebook, Instagram, Outlook.com, GitHub, etc. They are designed to perform specific functions, such as online shopping, social networking, and email services, to name a few.
-One of the key technologies that support web applications is HyperText Transfer Protocol (HTTP). This protocol is responsible for the communication between the client and the server. In this module, we will cover the fundamental aspects of HTTP, including methods such as GET, POST, PUT, DELETE, and more. We will also cover authentication and authorization, as well as common web server databases. Understanding these basics is crucial for using and hacking APIs. <br>
+One of the key technologies that support web applications is HyperText Transfer Protocol (HTTP). This protocol is responsible for the communication between the client and the server. In this module, we will cover the fundamental aspects of HTTP, including methods such as GET, POST, PUT, DELETE, and more. We will also cover authentication and authorization, as well as common web server databases. Understanding these basics is crucial for using and hacking APIs.
 
-Idempotent Methods <br>
+Idempotent Methods
 
 In HTTP, there are certain methods that are considered idempotent, which means that they can be used to send the same request multiple times without changing the state of a resource on a web server. For example, a GET request for a webpage will always return the same webpage, regardless of how many times the request is sent. This is because the GET method is used to retrieve a resource from the server, and the resource itself will not change. Other idempotent methods include HEAD, PUT, OPTIONS, and DELETE. These methods are considered safe and are typically used for read-only operations.
+
 Non-Idempotent Methods
+
 On the other hand, non-idempotent methods can dynamically change the results of a resource on a server. These methods include POST, PATCH, and CONNECT. POST is the most commonly used method for changing web server resources and is used to create new resources on a web server. Therefore, if a POST request is submitted multiple times, it will create multiple new resources on the web server. In contrast, if an idempotent method like PUT is requested multiple times, it will overwrite a single resource multiple times. These methods are typically used for operations that can change the state of a resource, such as creating or updating data.
+
 Stateful and Stateless HTTP
+
 HTTP is a stateless protocol, meaning that the server does not keep track of information between requests. However, for users to have a consistent experience with a web application, the web server needs to remember something about the HTTP session with that client. This is achieved through the use of small text files called cookies, which are stored on the client side. These cookies can store site-specific settings, security settings, and authentication-related information.
 While stateful connections allow for a more personalized experience for the user, they also have scaling limitations. The server can only handle as many stateful connections as allowed by its computing resources. To overcome this limitation, stateless communications have been introduced. In stateless communications, the server does not store session information, and every request sent must contain all the necessary information for the web server to recognize that the requestor is authorized to access the given resources. This could include a token or an authorization header. Stateless connections are more scalable, as they do not require the server to maintain a session for each user, but the user experience could be less personalized.
 Anatomy of a URL
