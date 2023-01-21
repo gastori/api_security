@@ -93,5 +93,3 @@ In a web application, APIs are used to allow the front-end to communicate with t
 
 To sum up, web applications rely on several technologies to function, including HTTP, web servers, databases and APIs. Understanding these technologies is crucial to understand how web applications work and how to use and hack APIs. Separating the web server and database into different machines can increase scalability, performance and security, but it's not always necessary. APIs are a key component of web development and web services, and they play a crucial role in allowing web applications to communicate with other systems and services.
 
-PowerPoint Deck
-[Link](https://github.com/gastori/api_security/blob/main/web_app_101/pptx/web_app_101.pptx)
