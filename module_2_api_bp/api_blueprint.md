@@ -50,6 +50,7 @@ APIs, similar to other applications, are not immune to vulnerabilities. Some of 
 Note: It's important to note that this is not an exhaustive list, as new types of attacks and vulnerabilities continue to emerge.
 
 ### In conclusion
+
 APIs play an important role in modern software development and come in different types such as RESTful and GraphQL. They use different formats like JSON, XML, YAML to facilitate data exchange. Additionally, APIs use different methods of authentication like API keys, JWT and HMAC to ensure that only authorized users can access the resources. As an API developer or consumer, it is important to understand these different aspects of APIs in order to make informed decisions and ensure the security of the API.
 
 <p align="center">
