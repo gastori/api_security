@@ -102,4 +102,12 @@ To sum up, web applications rely on several technologies to function, including 
     🙌 <b><a href="https://github.com/gastori/api_security/raw/main/module_1_web_app_101/pptx/web_app_101.pptx">PowerPoint Deck</a></b> 📖
 </p>
 
+</p>
+
+<p align="center">
+    🙌 <b><a href="https://youtu.be/PnHj9AQMIZM">Module 1 Video</a></b> 📖
+</p>
+
+
+
 
