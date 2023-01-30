@@ -107,44 +107,10 @@ To sum up, web applications rely on several technologies to function, including 
 </p>
 
 <p align="center">
-<style>
-      .libutton {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        padding: 7px;
-        text-align: center;
-        outline: none;
-        text-decoration: none !important;
-        color: #ffffff !important;
-        width: 200px;
-        height: 32px;
-        border-radius: 16px;
-        background-color: #0A66C2;
-        font-family: "SF Pro Text", Helvetica, sans-serif;
-      }
-    </style>
-<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7019307719513792512" target="_blank">Subscribe on LinkedIn</a>
+    👋<b><a href="https://www.linkedin.com/in/giulioastori">Follow me on Linkedin</a></b> 
 </p>
 
 <p align="center">
-<style>
-      .twbutton {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        padding: 7px;
-        text-align: center;
-        outline: none;
-        text-decoration: none !important;
-        color: #ffffff !important;
-        width: 200px;
-        height: 32px;
-        border-radius: 16px;
-        background-color: #0A66C2;
-        font-family: "SF Pro Text", Helvetica, sans-serif;
-      }
-    </style>
-<a class="twbutton" href="https://twitter.com/AstoriGiulio?ref_src=twsrc%5Etfw" target="_blank">Follow me on Twitter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    👋<b><a href="https://twitter.com/AstoriGiulio">Follow me on Twitter</a></b> 
 </p>
 
