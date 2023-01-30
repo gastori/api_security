@@ -275,6 +275,35 @@ Note: It's important to note that this is not an exhaustive list, as new types o
 
 APIs play an important role in modern software development and come in different types such as RESTful and GraphQL. They use different formats like JSON, XML, YAML to facilitate data exchange. Additionally, APIs use different methods of authentication like API keys, JWT and HMAC to ensure that only authorized users can access the resources. As an API developer or consumer, it is important to understand these different aspects of APIs in order to make informed decisions and ensure the security of the API.
 
+## Practice with Free APIs
+A list of free APIs to practice with is available @ [Top 15 Free APIs Without Key or Authentication](https://apipheny.io/free-api/)
+
+Testing APIs with a Command Line Tool:
+
+Choose a command line tool for making HTTP requests, such as cURL or HTTPie.
+Familiarize yourself with the syntax for making requests with your chosen tool.
+
+    Test the API endpoint by sending a request and observing the response. For example: 
+    
+    curl https://api.example.com/users
+
+You can also include headers, parameters, and send different types of requests (e.g. POST, PUT, DELETE) using your command line tool.
+Repeat the process to test other endpoints and ensure they return the expected results.
+Testing APIs with Postman:
+
+- Download and install the Postman app.
+- Open Postman and create a new request.
+- Choose the type of request you want to send (e.g. GET, POST, PUT, DELETE).
+- Enter the URL of the API endpoint you want to test.
+- Optionally, you can add headers, parameters, and a request body.
+- Send the request and observe the response.
+- Repeat the process to test other endpoints and ensure they return the expected results.
+- Use Postman's built-in tools for testing and collaboration, such as saving and sharing requests, creating and running collections, and creating and running automated tests.
+
+Note: These steps are meant as a general guide for testing APIs. The exact steps may vary depending on the specific tool and API you are working with.
+<br> <br>
+
+    
 <p align="center">
     <img alt="module 2" src="images/m2-pptx.png" width="500"/>    
 </p>
@@ -287,3 +316,10 @@ APIs play an important role in modern software development and come in different
     🙌 VIDEO IS WORKING IN PROGRESS - STAY TUNED   
 </p>
 
+<p align="center">
+    👋<b><a href="https://www.linkedin.com/in/giulioastori">Follow me on Linkedin</a></b> 
+</p>
+
+<p align="center">
+    👋<b><a href="https://twitter.com/AstoriGiulio">Follow me on Twitter</a></b> 
+</p>
