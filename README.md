@@ -26,7 +26,7 @@ Happy Learning ... Happy PEN-HACK !!
 |Module #|Module Name|
 |--------|-----------|
 | 1 | [Web Applications 101](https://github.com/gastori/api_security/blob/main/module_1_web_app_101/web_app_101.md)|
-| 2 | [Web API's Blue Print](https://raw.githubusercontent.com/gastori/api_security/main/module_2_api_bp/api_blueprint.md)|
+| 2 | [Web API's Blue Print](https://github.com/gastori/api_security/blob/main/module_2_api_bp/api_blueprint.md)|
 
 --- 
 <br> 
