@@ -25,8 +25,8 @@ Happy Learning ... Happy PEN-HACK !!
 
 |Module #|Module Name|
 |--------|-----------|
-| 1 | [Web Applications 101](https://raw.githubusercontent.com/gastori/api_security/main/module_1_web_app_101/web_app_101.md?token=GHSAT0AAAAAAB4PUCXR5QTCVJJVPBLPYJZCY6XSKXA)|
-| 2 | [Web API's Blue Print](https://raw.githubusercontent.com/gastori/api_security/main/module_2_api_bp/api_blueprint.md?token=GHSAT0AAAAAAB4PUCXR26JPNCQLHJJC4MKKY6XSLYA)|
+| 1 | [Web Applications 101](https://raw.githubusercontent.com/gastori/api_security/main/module_1_web_app_101/web_app_101.md)|
+| 2 | [Web API's Blue Print](https://raw.githubusercontent.com/gastori/api_security/main/module_2_api_bp/api_blueprint.md)|
 
 --- 
 <br> 
