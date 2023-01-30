@@ -1,13 +1,16 @@
-# API Blueprint
+# API Blue Print
 
 ## Introduction
 
-APIs, or application programming interfaces, are a fundamental part of modern software development. They enable different systems or applications to communicate with each other, allowing clients to access resources from a provider's API endpoint. In this article, we will explore the anatomy of APIs, including the different types, formats, and methods of authentication that are commonly used.
+APIs, or application programming interfaces, are a fundamental part of modern software development. They enable different systems or applications to communicate with each other, allowing clients to access resources from a provider's API endpoint. In this module, we will explore the structure of APIs, including the different types, formats, and methods of authentication that are commonly used.
 
 ## Types of APIs
 
 APIs come in different types, each with its own set of rules, functions, and purposes. Two of the most common types are RESTful APIs and GraphQL.
 
+> Note: That being said, it's important to note that another type of API, less popular nowadays, is the SOAP API. SOAP APIs are not old, but they are not as widely used as they used to be. The rise of RESTful APIs has led to a decline in the use of SOAP APIs as RESTful APIs are considered more lightweight, flexible, and easier to use. While SOAP APIs may not be the best choice for all use cases, they can still provide valuable solutions in certain situations, and they are still in use in certain industries, such as finance and government, where security and reliability are top priorities.
+
+### RESTful API
 RESTful APIs, or Representational State Transfer APIs, use a set of architectural constraints that are based on HTTP methods. They follow the CRUD (Create, Read, Update, Delete) principles and have a uniform interface, client-server architecture, stateless communication, and cacheable responses. RESTful APIs are designed to improve upon the inefficiencies of other older APIs. They rely entirely on the use of HTTP, which makes them more approachable for end-users. RESTful APIs use standard HTTP methods such as GET, POST, PUT, and DELETE to accomplish CRUD operations. The main advantage of RESTful APIs is their simplicity, ease of use, and flexibility. They can be used with any programming language and can be accessed by any client that can make HTTP requests.
 
 A sample GET Request and Response:
@@ -55,7 +58,7 @@ punchline	"You've got no class."
 id	387
 ```
 
-
+### GraphQL API
 GraphQL, short for Graph Query Language, is a specification for APIs that allows clients to define the structure of the data they want to request from the server. GraphQL APIs are query-centric, similar to a database query language like SQL, and store resources in a graph data structure. This allows clients to request exactly the data they need, reducing the amount of data that needs to be sent over the network, and reducing the complexity of the client-side code. GraphQL also uses HTTP, typically depending on a single entry point using the POST method. GraphQL uses three operations within the POST request to interact with GraphQL APIs: query, mutation, and subscription. The query operation is used to retrieve data (read), the mutation operation is used to submit and write data (create, update, and delete), and the subscription operation is used to send data (for read actions) when an event occurs. Subscription allows GraphQL clients to listen to live updates from the server, which is useful in applications that require real-time data.
 
 A sample POST Request and Response:
@@ -277,5 +280,10 @@ APIs play an important role in modern software development and come in different
 </p>
 
 <p align="center">
-    🙌 <b><a href="https://github.com/gastori/api_security/raw/main/module_2_api_bp/pptx/api_bp.pptx">PowerPoint Deck</a></b> 📖
+    📖 <b><a href="https://github.com/gastori/api_security/raw/main/module_2_api_bp/pptx/api_bp.pptx">PowerPoint Deck</a></b> 
 </p>
+
+<p align="center">
+    🙌 VIDEO IS WORKING IN PROGRESS - STAY TUNED   
+</p>
+
