@@ -108,9 +108,6 @@ To sum up, web applications rely on several technologies to function, including 
     📖 <b><a href="https://youtu.be/PnHj9AQMIZM">Module 1 Video</a></b> 
 </p>
 
-{% raw %} {% include youtube.html id="JLMbpiywVxQ" %}
-{% endraw %}
-
 <p align="center">
 <style>
       .libutton {
