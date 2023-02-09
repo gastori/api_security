@@ -27,6 +27,7 @@ Happy Learning ... Happy PEN-HACK !!
 |--------|-----------|
 | 1 | [Web Applications 101](https://github.com/gastori/api_security/blob/main/module_1_web_app_101/web_app_101.md)|
 | 2 | [Web API's Blue Print](https://github.com/gastori/api_security/blob/main/module_2_api_bp/api_blueprint.md)|
+| 3 | [Web API's Common Vulnerabilities](https://github.com/gastori/api_security/blob/main/module_3_common_vul/common_vul.md)|
 
 --- 
 <br> 
