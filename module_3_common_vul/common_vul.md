@@ -553,7 +553,7 @@ Overall, investing in API security is crucial in ensuring the success and longev
 
 <br> <br>
 <p align="center">
-    <img alt="module 2" src="images/mod-3.png" width="500"/>    
+    <img alt="module 2" src="images/mod-3.PNG" width="500"/>    
 </p>
 
 <p align="center">
