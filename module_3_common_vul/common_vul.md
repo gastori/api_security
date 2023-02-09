@@ -552,8 +552,6 @@ It is important for developers to understand these vulnerabilities and take proa
 Overall, investing in API security is crucial in ensuring the success and longevity of applications. By staying informed about the common API vulnerabilities and taking proactive steps to mitigate them, developers can help ensure that their APIs are secure and can withstand attacks.
 
 <br> <br>
-
-    
 <p align="center">
     <img alt="module 2" src="images/mod-3.png" width="500"/>    
 </p>
