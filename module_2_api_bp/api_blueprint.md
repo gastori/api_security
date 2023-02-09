@@ -313,7 +313,7 @@ Note: These steps are meant as a general guide for testing APIs. The exact steps
 </p>
 
 <p align="center">
-    📖 <b><a href="https://youtu.be/hBT4UcID-iQ">Module 1 Video</a></b>
+    📖 <b><a href="https://youtu.be/hBT4UcID-iQ">Module 2 Video</a></b>
 </p>
 
 <p align="center">

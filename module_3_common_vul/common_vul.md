@@ -561,7 +561,7 @@ Overall, investing in API security is crucial in ensuring the success and longev
 </p>
 
 <p align="center">
-    📖 <b><a href="https://youtu.be/uP2ORcB5iV8">Module 1 Video</a></b>
+    📖 <b><a href="https://youtu.be/uP2ORcB5iV8">Module 3 Video</a></b>
 </p>
 
 <p align="center">
